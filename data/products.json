@@ -1,0 +1,2185 @@
+{
+ "source_pdf": "spring-2027-flower-catalogue.pdf",
+ "source_sha256": "d449b8254b0ca60a3954119809db94f2b3f9f3721542bb8ceec8e5f940647169",
+ "pages": 74,
+ "currency": "CAD",
+ "gst_rate": 0.05,
+ "items": [
+  {
+   "item_no": 1,
+   "family": "Superbells® Calibrachoa",
+   "name": "Blue",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 6
+  },
+  {
+   "item_no": 2,
+   "family": "Superbells® Calibrachoa",
+   "name": "Coral Sun",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 6
+  },
+  {
+   "item_no": 3,
+   "family": "Superbells® Calibrachoa",
+   "name": "Dreamsicle",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 6
+  },
+  {
+   "item_no": 4,
+   "family": "Superbells® Calibrachoa",
+   "name": "Honeyberry™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 5,
+   "family": "Superbells® Calibrachoa",
+   "name": "Pink",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 6,
+   "family": "Superbells® Calibrachoa",
+   "name": "Pink Lemonade",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 7,
+   "family": "Superbells® Calibrachoa",
+   "name": "Red",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 8,
+   "family": "Superbells® Calibrachoa",
+   "name": "Tangerine Punch™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 9,
+   "family": "Superbells® Calibrachoa",
+   "name": "Tropical Sunrise",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 10,
+   "family": "Superbells® Calibrachoa",
+   "name": "White",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 11,
+   "family": "Superbells® Calibrachoa",
+   "name": "Yellow",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 7
+  },
+  {
+   "item_no": 12,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Amber",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 8
+  },
+  {
+   "item_no": 13,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Blue",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 8
+  },
+  {
+   "item_no": 14,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Grapefruit",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 8
+  },
+  {
+   "item_no": 15,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Mardi Gras",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 8
+  },
+  {
+   "item_no": 16,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Midnight Magenta",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 17,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Orange",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 18,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Redstone",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 19,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Ruby",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 20,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Smitten Pink",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 21,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Twilight",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 22,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Vintage Coral",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 23,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double White",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 24,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Double Yellow",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 25,
+   "family": "Double Superbells® Calibrachoa",
+   "name": "Doublette Love Swept™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 9
+  },
+  {
+   "item_no": 26,
+   "family": "Ipomoea Sweet Potato Vine",
+   "name": "Jet Black™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 10
+  },
+  {
+   "item_no": 27,
+   "family": "Ipomoea Sweet Potato Vine",
+   "name": "Lime",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 10
+  },
+  {
+   "item_no": 28,
+   "family": "Ipomoea Sweet Potato Vine",
+   "name": "Mahogany",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 10
+  },
+  {
+   "item_no": 29,
+   "family": "Ipomoea Sweet Potato Vine",
+   "name": "Marguerite",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 10
+  },
+  {
+   "item_no": 30,
+   "family": "Ipomoea Sweet Potato Vine",
+   "name": "Shadowstorm™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 10
+  },
+  {
+   "item_no": 31,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Bubblegum",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 13
+  },
+  {
+   "item_no": 32,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Bubblegum",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 13
+  },
+  {
+   "item_no": 33,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Cool Jazz™",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 13
+  },
+  {
+   "item_no": 34,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Cool Jazz™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 13
+  },
+  {
+   "item_no": 35,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Fuchsia",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 13
+  },
+  {
+   "item_no": 36,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Fuchsia",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 13
+  },
+  {
+   "item_no": 37,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Jazzberry",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 13
+  },
+  {
+   "item_no": 38,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Jazzberry",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 13
+  },
+  {
+   "item_no": 39,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Paradise",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 13
+  },
+  {
+   "item_no": 40,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Paradise",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 13
+  },
+  {
+   "item_no": 41,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Silverberry",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 13
+  },
+  {
+   "item_no": 42,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Silverberry",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 13
+  },
+  {
+   "item_no": 43,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Snowdrift",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 13
+  },
+  {
+   "item_no": 44,
+   "family": "Supertunia Vista® Petunias",
+   "name": "Snowdrift",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 13
+  },
+  {
+   "item_no": 45,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Cloud Pink",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 14
+  },
+  {
+   "item_no": 46,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Cloud Pink",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 14
+  },
+  {
+   "item_no": 47,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Hot Pink",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 14
+  },
+  {
+   "item_no": 48,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Hot Pink",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 14
+  },
+  {
+   "item_no": 49,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Plum Veined",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 14
+  },
+  {
+   "item_no": 50,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Plum Veined",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 14
+  },
+  {
+   "item_no": 51,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Scarlet",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 15
+  },
+  {
+   "item_no": 52,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Scarlet",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 15
+  },
+  {
+   "item_no": 53,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Ultramaria",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 15
+  },
+  {
+   "item_no": 54,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Ultramaria",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 15
+  },
+  {
+   "item_no": 55,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Violet Star",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 15
+  },
+  {
+   "item_no": 56,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Violet Star",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 15
+  },
+  {
+   "item_no": 57,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "White",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 15
+  },
+  {
+   "item_no": 58,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "White",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 15
+  },
+  {
+   "item_no": 59,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Yellow",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 15
+  },
+  {
+   "item_no": 60,
+   "family": "Supertunia® Mini Vista Petunias",
+   "name": "Yellow",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 15
+  },
+  {
+   "item_no": 61,
+   "family": "Supertunia® Petunias",
+   "name": "Bermuda Beach®",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 16
+  },
+  {
+   "item_no": 62,
+   "family": "Supertunia® Petunias",
+   "name": "Bermuda Beach®",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 16
+  },
+  {
+   "item_no": 63,
+   "family": "Supertunia® Petunias",
+   "name": "Black Cherry",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 16
+  },
+  {
+   "item_no": 64,
+   "family": "Supertunia® Petunias",
+   "name": "Black Cherry",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 16
+  },
+  {
+   "item_no": 65,
+   "family": "Supertunia® Petunias",
+   "name": "Bordeaux™",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 16
+  },
+  {
+   "item_no": 66,
+   "family": "Supertunia® Petunias",
+   "name": "Bordeaux™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 16
+  },
+  {
+   "item_no": 67,
+   "family": "Supertunia® Petunias",
+   "name": "Hoopla™ Vivid Orchid™",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 16
+  },
+  {
+   "item_no": 68,
+   "family": "Supertunia® Petunias",
+   "name": "Hoopla™ Vivid Orchid™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 16
+  },
+  {
+   "item_no": 69,
+   "family": "Supertunia® Petunias",
+   "name": "Persimmon",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 70,
+   "family": "Supertunia® Petunias",
+   "name": "Persimmon",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 71,
+   "family": "Supertunia® Petunias",
+   "name": "Priscilla",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 72,
+   "family": "Supertunia® Petunias",
+   "name": "Priscilla",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 73,
+   "family": "Supertunia® Petunias",
+   "name": "Raspberry Rush™",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 74,
+   "family": "Supertunia® Petunias",
+   "name": "Raspberry Rush™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 75,
+   "family": "Supertunia® Petunias",
+   "name": "Really Red",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 76,
+   "family": "Supertunia® Petunias",
+   "name": "Really Red",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 77,
+   "family": "Supertunia® Petunias",
+   "name": "Royal Magenta",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 78,
+   "family": "Supertunia® Petunias",
+   "name": "Royal Magenta",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 79,
+   "family": "Supertunia® Petunias",
+   "name": "Royal Velvet",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 80,
+   "family": "Supertunia® Petunias",
+   "name": "Royal Velvet",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 81,
+   "family": "Supertunia® Petunias",
+   "name": "Saffron Finch",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 82,
+   "family": "Supertunia® Petunias",
+   "name": "Saffron Finch",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 83,
+   "family": "Supertunia® Petunias",
+   "name": "Tiara® Blue",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 84,
+   "family": "Supertunia® Petunias",
+   "name": "Tiara® Blue",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 85,
+   "family": "Supertunia® Petunias",
+   "name": "Tiara® Pink",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 17
+  },
+  {
+   "item_no": 86,
+   "family": "Supertunia® Petunias",
+   "name": "Tiara® Pink",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 17
+  },
+  {
+   "item_no": 87,
+   "family": "Petunia Crazytunia",
+   "name": "Black and White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 18
+  },
+  {
+   "item_no": 88,
+   "family": "Petunia Crazytunia",
+   "name": "Black Mamba",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 18
+  },
+  {
+   "item_no": 89,
+   "family": "Petchoa Caliburst™",
+   "name": "Nectarine",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 19
+  },
+  {
+   "item_no": 90,
+   "family": "Petchoa Caliburst™",
+   "name": "Yellow",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 19
+  },
+  {
+   "item_no": 91,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Cinnamon",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 20
+  },
+  {
+   "item_no": 92,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Coral Star",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 20
+  },
+  {
+   "item_no": 93,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "French Vanilla",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 20
+  },
+  {
+   "item_no": 94,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Pearl White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 21
+  },
+  {
+   "item_no": 95,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Purple Dawn",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 21
+  },
+  {
+   "item_no": 96,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Red Maple",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 21
+  },
+  {
+   "item_no": 97,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Rose Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 21
+  },
+  {
+   "item_no": 98,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Sunset Orange",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 21
+  },
+  {
+   "item_no": 99,
+   "family": "Petchoa SuperCal® Premium",
+   "name": "Yellow Sun",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 21
+  },
+  {
+   "item_no": 100,
+   "family": "Angelonia Sungelonia",
+   "name": "Blue",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 23
+  },
+  {
+   "item_no": 101,
+   "family": "Angelonia Sungelonia",
+   "name": "Deep Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 23
+  },
+  {
+   "item_no": 102,
+   "family": "Angelonia Sungelonia",
+   "name": "White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 23
+  },
+  {
+   "item_no": 103,
+   "family": "Argyranthemum frutescens",
+   "name": "Golden Butterfly™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 24
+  },
+  {
+   "item_no": 104,
+   "family": "Argyranthemum frutescens",
+   "name": "Pure White Butterfly™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 24
+  },
+  {
+   "item_no": 105,
+   "family": "Argyranthemum Sundurance",
+   "name": "Lolly Dark",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 25
+  },
+  {
+   "item_no": 106,
+   "family": "Argyranthemum Sundurance",
+   "name": "Margarita",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 25
+  },
+  {
+   "item_no": 107,
+   "family": "Bacopa Everest Cherry Blast",
+   "name": "Bacopa Everest Cherry Blast",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 26
+  },
+  {
+   "item_no": 108,
+   "family": "Bacopa Snowstorm®",
+   "name": "Blue Imp",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 27
+  },
+  {
+   "item_no": 109,
+   "family": "Bacopa Snowstorm®",
+   "name": "Giant Snowflake",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 27
+  },
+  {
+   "item_no": 110,
+   "family": "Bacopa Snowstorm®",
+   "name": "Giant Snowflake",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 27
+  },
+  {
+   "item_no": 111,
+   "family": "Begonia NonStop",
+   "name": "Deep Rose",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 28
+  },
+  {
+   "item_no": 112,
+   "family": "Begonia NonStop",
+   "name": "Orange",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 28
+  },
+  {
+   "item_no": 113,
+   "family": "Begonia NonStop",
+   "name": "Red",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 28
+  },
+  {
+   "item_no": 114,
+   "family": "Begonia NonStop",
+   "name": "Salmon",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 28
+  },
+  {
+   "item_no": 115,
+   "family": "Begonia NonStop",
+   "name": "Yellow",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 28
+  },
+  {
+   "item_no": 116,
+   "family": "Bidens Goldilocks Rocks®",
+   "name": "Bidens Goldilocks Rocks®",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 29
+  },
+  {
+   "item_no": 117,
+   "family": "Citrosa Mosquito Plant",
+   "name": "Citrosa Mosquito Plant",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 30
+  },
+  {
+   "item_no": 118,
+   "family": "Cleome Arona",
+   "name": "Rose",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 31
+  },
+  {
+   "item_no": 119,
+   "family": "Cleome Arona",
+   "name": "Violet",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 31
+  },
+  {
+   "item_no": 120,
+   "family": "Cleome Arona",
+   "name": "White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 31
+  },
+  {
+   "item_no": 121,
+   "family": "Coleus ColorBlaze®",
+   "name": "Dipt in Wine",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 32
+  },
+  {
+   "item_no": 122,
+   "family": "Coleus ColorBlaze®",
+   "name": "El Brighto",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 32
+  },
+  {
+   "item_no": 123,
+   "family": "Coleus ColorBlaze®",
+   "name": "Golden Dreams",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 32
+  },
+  {
+   "item_no": 124,
+   "family": "Coleus ColorBlaze®",
+   "name": "Lime Time™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 33
+  },
+  {
+   "item_no": 125,
+   "family": "Coleus ColorBlaze®",
+   "name": "Sedona Sunset™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 33
+  },
+  {
+   "item_no": 126,
+   "family": "Coleus ColorBlaze®",
+   "name": "Torchlight™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 33
+  },
+  {
+   "item_no": 127,
+   "family": "Coleus ColorBlaze®",
+   "name": "Velveteen®",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 33
+  },
+  {
+   "item_no": 128,
+   "family": "Dahlia Dahlietta",
+   "name": "Anna",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 129,
+   "family": "Dahlia Dahlietta",
+   "name": "Candy",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 130,
+   "family": "Dahlia Dahlietta",
+   "name": "Coby",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 131,
+   "family": "Dahlia Dahlietta",
+   "name": "Emily",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 132,
+   "family": "Dahlia Dahlietta",
+   "name": "Julia",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 133,
+   "family": "Dahlia Dahlietta",
+   "name": "Louisa",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 134,
+   "family": "Dahlia Dahlietta",
+   "name": "Patty",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 135,
+   "family": "Dahlia Dahlietta",
+   "name": "Rachel",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 34
+  },
+  {
+   "item_no": 136,
+   "family": "Dracaena Spikes",
+   "name": "Dracaena Spikes",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 35
+  },
+  {
+   "item_no": 137,
+   "family": "Euphorbia Diamond Snow™",
+   "name": "Euphorbia Diamond Snow™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 36
+  },
+  {
+   "item_no": 138,
+   "family": "Felicia Daisy Forever Blue",
+   "name": "Felicia Daisy Forever Blue",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 37
+  },
+  {
+   "item_no": 139,
+   "family": "Gaura",
+   "name": "Baby Butterfly Dark Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 38
+  },
+  {
+   "item_no": 140,
+   "family": "Gaura",
+   "name": "Everlast Dark Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 38
+  },
+  {
+   "item_no": 141,
+   "family": "Gaura",
+   "name": "Everlast Light Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 38
+  },
+  {
+   "item_no": 142,
+   "family": "Geranium Zonal Savannah",
+   "name": "Blue",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 143,
+   "family": "Geranium Zonal Savannah",
+   "name": "Coral",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 144,
+   "family": "Geranium Zonal Savannah",
+   "name": "Hot Pink Sizzle",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 145,
+   "family": "Geranium Zonal Savannah",
+   "name": "Hot Rod Red",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 146,
+   "family": "Geranium Zonal Savannah",
+   "name": "Lavender Splash",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 147,
+   "family": "Geranium Zonal Savannah",
+   "name": "Merlot Sizzle",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 148,
+   "family": "Geranium Zonal Savannah",
+   "name": "Neon",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 149,
+   "family": "Geranium Zonal Savannah",
+   "name": "Oh So Orange",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 39
+  },
+  {
+   "item_no": 150,
+   "family": "Geranium Zonal Savannah",
+   "name": "Pink Sizzle",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 40
+  },
+  {
+   "item_no": 151,
+   "family": "Geranium Zonal Savannah",
+   "name": "Pink Splash",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 40
+  },
+  {
+   "item_no": 152,
+   "family": "Geranium Zonal Savannah",
+   "name": "Ruby Sizzle",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 40
+  },
+  {
+   "item_no": 153,
+   "family": "Geranium Zonal Savannah",
+   "name": "Salmon",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 40
+  },
+  {
+   "item_no": 154,
+   "family": "Geranium Zonal Savannah",
+   "name": "White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 40
+  },
+  {
+   "item_no": 155,
+   "family": "Gomphrena",
+   "name": "Pinball Purple",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 41
+  },
+  {
+   "item_no": 156,
+   "family": "Gomphrena",
+   "name": "Spitfire Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 41
+  },
+  {
+   "item_no": 157,
+   "family": "Heliotrope Midnight Sky",
+   "name": "Heliotrope Midnight Sky",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 42
+  },
+  {
+   "item_no": 158,
+   "family": "Impatiens Double Glimmer™",
+   "name": "Burgundy",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 43
+  },
+  {
+   "item_no": 159,
+   "family": "Impatiens Double Glimmer™",
+   "name": "Dark Red",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 43
+  },
+  {
+   "item_no": 160,
+   "family": "Impatiens Double Glimmer™",
+   "name": "Hot Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 43
+  },
+  {
+   "item_no": 161,
+   "family": "Impatiens Double Glimmer™",
+   "name": "Salmon",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 43
+  },
+  {
+   "item_no": 162,
+   "family": "Impatiens Double Glimmer™",
+   "name": "Strawberry Sparkler",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 43
+  },
+  {
+   "item_no": 163,
+   "family": "Impatiens Double Glimmer™",
+   "name": "White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 43
+  },
+  {
+   "item_no": 164,
+   "family": "Impatiens SunPatiens Compact",
+   "name": "Bright Purple",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 44
+  },
+  {
+   "item_no": 165,
+   "family": "Impatiens SunPatiens Compact",
+   "name": "Classic White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 44
+  },
+  {
+   "item_no": 166,
+   "family": "Impatiens SunPatiens Compact",
+   "name": "Deep Red",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 44
+  },
+  {
+   "item_no": 167,
+   "family": "Impatiens SunPatiens Compact",
+   "name": "Electric Orange",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 44
+  },
+  {
+   "item_no": 168,
+   "family": "Impatiens SunPatiens Compact",
+   "name": "Hot Pink",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 44
+  },
+  {
+   "item_no": 169,
+   "family": "Impatiens SunPatiens Compact",
+   "name": "Lavender",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 44
+  },
+  {
+   "item_no": 170,
+   "family": "Lantana Heartland",
+   "name": "Blue Moon",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 45
+  },
+  {
+   "item_no": 171,
+   "family": "Lantana Heartland",
+   "name": "Citrus",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 45
+  },
+  {
+   "item_no": 172,
+   "family": "Lantana Heartland",
+   "name": "Neon",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 45
+  },
+  {
+   "item_no": 173,
+   "family": "Lantana Heartland",
+   "name": "Orange",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 45
+  },
+  {
+   "item_no": 174,
+   "family": "Lantana Heartland",
+   "name": "Really Red",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 45
+  },
+  {
+   "item_no": 175,
+   "family": "Lantana Heartland",
+   "name": "Sunrise",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 45
+  },
+  {
+   "item_no": 176,
+   "family": "Lantana Heartland",
+   "name": "White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 45
+  },
+  {
+   "item_no": 177,
+   "family": "Lobelia Laguna™",
+   "name": "Cloud White™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 46
+  },
+  {
+   "item_no": 178,
+   "family": "Lobelia Laguna™",
+   "name": "Dark Blue",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 46
+  },
+  {
+   "item_no": 179,
+   "family": "Lobelia Laguna™",
+   "name": "Sky Blue",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 46
+  },
+  {
+   "item_no": 180,
+   "family": "Lobularia Snow Princess®",
+   "name": "Lobularia Snow Princess",
+   "size": "2.5\"",
+   "price": 3.8,
+   "page": 47
+  },
+  {
+   "item_no": 181,
+   "family": "Lobularia Snow Princess®",
+   "name": "Lobularia Snow Princess",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 47
+  },
+  {
+   "item_no": 182,
+   "family": "Nemesia",
+   "name": "Aromance™ Mulberry",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 48
+  },
+  {
+   "item_no": 183,
+   "family": "Nemesia",
+   "name": "Aromance™ Pink",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 48
+  },
+  {
+   "item_no": 184,
+   "family": "Nemesia",
+   "name": "Aromance™ Plum Honey",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 48
+  },
+  {
+   "item_no": 185,
+   "family": "Nemesia",
+   "name": "Bluebird",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 49
+  },
+  {
+   "item_no": 186,
+   "family": "Nemesia",
+   "name": "Sunsatia® Blood Orange",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 49
+  },
+  {
+   "item_no": 187,
+   "family": "Nemesia",
+   "name": "Sunsatia® Cranberry Red",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 49
+  },
+  {
+   "item_no": 188,
+   "family": "Nemesia",
+   "name": "Sunsatia® Lemon",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 49
+  },
+  {
+   "item_no": 189,
+   "family": "Osteospermum Summersmile",
+   "name": "Cream",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 50
+  },
+  {
+   "item_no": 190,
+   "family": "Osteospermum Summersmile",
+   "name": "Magenta",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 50
+  },
+  {
+   "item_no": 191,
+   "family": "Osteospermum Summersmile",
+   "name": "Orange",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 50
+  },
+  {
+   "item_no": 192,
+   "family": "Osteospermum Summersmile",
+   "name": "Rosy White",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 50
+  },
+  {
+   "item_no": 193,
+   "family": "Osteospermum Summersmile",
+   "name": "Sangria",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 50
+  },
+  {
+   "item_no": 194,
+   "family": "Osteospermum Summersmile",
+   "name": "Soft Violet",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 50
+  },
+  {
+   "item_no": 195,
+   "family": "Osteospermum Summersmile",
+   "name": "Sunrise",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 50
+  },
+  {
+   "item_no": 196,
+   "family": "Pansy Cool Wave",
+   "name": "Berries 'n' Cream",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 197,
+   "family": "Pansy Cool Wave",
+   "name": "Blue",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 198,
+   "family": "Pansy Cool Wave",
+   "name": "Golden Yellow",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 199,
+   "family": "Pansy Cool Wave",
+   "name": "Morpho",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 200,
+   "family": "Pansy Cool Wave",
+   "name": "Purple",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 201,
+   "family": "Pansy Cool Wave",
+   "name": "Raspberry",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 202,
+   "family": "Pansy Cool Wave",
+   "name": "Violet Wing",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 203,
+   "family": "Pansy Cool Wave",
+   "name": "White",
+   "size": "4\"",
+   "price": 3.85,
+   "page": 52
+  },
+  {
+   "item_no": 204,
+   "family": "Plectranthus Magic Mona",
+   "name": "Plectranthus Magic Mona",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 53
+  },
+  {
+   "item_no": 205,
+   "family": "Salvia",
+   "name": "Bodacious Jammin Jazz",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 54
+  },
+  {
+   "item_no": 206,
+   "family": "Salvia",
+   "name": "Bodacious Rhythm & Blues",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 54
+  },
+  {
+   "item_no": 207,
+   "family": "Salvia",
+   "name": "Saucy Red",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 54
+  },
+  {
+   "item_no": 208,
+   "family": "Salvia",
+   "name": "Splendor Fuchsia",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 54
+  },
+  {
+   "item_no": 209,
+   "family": "Superbena® Verbena",
+   "name": "Amethyst",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 55
+  },
+  {
+   "item_no": 210,
+   "family": "Superbena® Verbena",
+   "name": "Cherryburst",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 55
+  },
+  {
+   "item_no": 211,
+   "family": "Superbena® Verbena",
+   "name": "Cobalt",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 55
+  },
+  {
+   "item_no": 212,
+   "family": "Superbena® Verbena",
+   "name": "Peachy Keen",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 55
+  },
+  {
+   "item_no": 213,
+   "family": "Superbena® Verbena",
+   "name": "Pink Cashmere™",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 214,
+   "family": "Superbena® Verbena",
+   "name": "Pink Shades",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 215,
+   "family": "Superbena® Verbena",
+   "name": "Raspberry",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 216,
+   "family": "Superbena® Verbena",
+   "name": "Red",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 217,
+   "family": "Superbena® Verbena",
+   "name": "Royale® Iced Cherry",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 218,
+   "family": "Superbena® Verbena",
+   "name": "Royale® Plum Wine",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 219,
+   "family": "Superbena® Verbena",
+   "name": "Royale® Romance",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 220,
+   "family": "Superbena® Verbena",
+   "name": "Sparkling Rose",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 221,
+   "family": "Superbena® Verbena",
+   "name": "Stormburst",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 222,
+   "family": "Superbena® Verbena",
+   "name": "Violet Ice",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 223,
+   "family": "Superbena® Verbena",
+   "name": "Whiteout",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 56
+  },
+  {
+   "item_no": 224,
+   "family": "Verbena bonariensis Meteor Shower®",
+   "name": "Verbena bonariensis Meteor Shower®",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 57
+  },
+  {
+   "item_no": 225,
+   "family": "Graceful Grasses®",
+   "name": "Cyperus Baby Tut",
+   "size": "6\"",
+   "price": 9.95,
+   "page": 59
+  },
+  {
+   "item_no": 226,
+   "family": "Graceful Grasses®",
+   "name": "Cyperus King Tut™",
+   "size": "6\"",
+   "price": 9.95,
+   "page": 59
+  },
+  {
+   "item_no": 227,
+   "family": "Graceful Grasses®",
+   "name": "Cyperus Prince Tut",
+   "size": "6\"",
+   "price": 9.95,
+   "page": 59
+  },
+  {
+   "item_no": 228,
+   "family": "Graceful Grasses®",
+   "name": "Pennisetum Rubrum Purple Fountain",
+   "size": "6\"",
+   "price": 9.95,
+   "page": 59
+  },
+  {
+   "item_no": 229,
+   "family": "Graceful Grasses®",
+   "name": "Pennisetum Vertigo",
+   "size": "6\"",
+   "price": 9.95,
+   "page": 59
+  },
+  {
+   "item_no": 230,
+   "family": "Juncus ColorGrass & Eupatorium",
+   "name": "Eupatorium Elegant Feather",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 60
+  },
+  {
+   "item_no": 231,
+   "family": "Juncus ColorGrass & Eupatorium",
+   "name": "Juncus ColorGrass Blue Arrows",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 60
+  },
+  {
+   "item_no": 232,
+   "family": "Juncus ColorGrass & Eupatorium",
+   "name": "Juncus ColorGrass Spiralis",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 60
+  },
+  {
+   "item_no": 233,
+   "family": "Artemisia",
+   "name": "Garden Ghost",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 62
+  },
+  {
+   "item_no": 234,
+   "family": "Artemisia",
+   "name": "Makana Silver",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 62
+  },
+  {
+   "item_no": 235,
+   "family": "Artemisia",
+   "name": "Trailing Dusty Miller Silver Cascade",
+   "size": "4.25\"",
+   "price": 5.45,
+   "page": 62
+  },
+  {
+   "item_no": 236,
+   "family": "Senecio Angel Wings",
+   "name": "Senecio Angel Wings",
+   "size": "6\"",
+   "price": 10.95,
+   "page": 63
+  },
+  {
+   "item_no": 237,
+   "family": "Senecio Winter Whispers",
+   "name": "Senecio Winter Whispers",
+   "size": "4.25\"",
+   "price": 5.95,
+   "page": 64
+  },
+  {
+   "item_no": 238,
+   "family": "Trailers",
+   "name": "Dichondra Silver Falls",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 239,
+   "family": "Trailers",
+   "name": "Glechoma Creeping Charlie",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 240,
+   "family": "Trailers",
+   "name": "Lamium White Nancy",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 241,
+   "family": "Trailers",
+   "name": "Lysimachia Creeping Jenny Goldilocks",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 242,
+   "family": "Trailers",
+   "name": "Plectranthus Variegata",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 243,
+   "family": "Trailers",
+   "name": "Sedum Lemon Ball",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 244,
+   "family": "Trailers",
+   "name": "Vinca Vine Reticulata (Maculata)",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 245,
+   "family": "Trailers",
+   "name": "Vinca Vine Variegated",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 246,
+   "family": "Trailers",
+   "name": "Vinca Vine Wojo's Jem",
+   "size": "4.25\"",
+   "price": 4.95,
+   "page": 67
+  },
+  {
+   "item_no": 247,
+   "family": "Herbs",
+   "name": "Basil Everleaf Genovese",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 248,
+   "family": "Herbs",
+   "name": "Coriander (Cilantro) Santo",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 249,
+   "family": "Herbs",
+   "name": "Dill Dwarf Fernleaf",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 250,
+   "family": "Herbs",
+   "name": "Mint Ginger",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 251,
+   "family": "Herbs",
+   "name": "Mint Mojito",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 252,
+   "family": "Herbs",
+   "name": "Mint Peppermint",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 253,
+   "family": "Herbs",
+   "name": "Oregano Italian",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 254,
+   "family": "Herbs",
+   "name": "Rosemary Barbecue",
+   "size": "4.25\"",
+   "price": 4.55,
+   "page": 69
+  },
+  {
+   "item_no": 255,
+   "family": "Tomatoes",
+   "name": "Beefsteak Wonderstar Red (Bush)",
+   "size": "4.25\"",
+   "price": 3.85,
+   "page": 70
+  },
+  {
+   "item_no": 256,
+   "family": "Tomatoes",
+   "name": "Bush Early Girl (Slicer)",
+   "size": "4.25\"",
+   "price": 3.85,
+   "page": 70
+  },
+  {
+   "item_no": 257,
+   "family": "Tomatoes",
+   "name": "La Roma IV (Bush Roma)",
+   "size": "4.25\"",
+   "price": 3.85,
+   "page": 70
+  },
+  {
+   "item_no": 258,
+   "family": "Tomatoes",
+   "name": "Small Fruit Candyland Red",
+   "size": "4.25\"",
+   "price": 3.85,
+   "page": 70
+  },
+  {
+   "item_no": 259,
+   "family": "Tomatoes",
+   "name": "Small Fruit Rapunzel",
+   "size": "4.25\"",
+   "price": 3.85,
+   "page": 70
+  },
+  {
+   "item_no": 260,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Dusty Miller Silver Dust",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 72
+  },
+  {
+   "item_no": 261,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Marigold Dwarf Double Strawberry Blonde",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 72
+  },
+  {
+   "item_no": 262,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Marigold Medium Double Marvel II Yellow",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 72
+  },
+  {
+   "item_no": 263,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Marigold Medium Tall Inca Mix",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 72
+  },
+  {
+   "item_no": 264,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Marigold Very Tall Coco Mix",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 265,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Nasturtium Trailing Alaska Mix",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 266,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Snapdragon Tall Rocket Bronze",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 267,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Snapdragon Tall Rocket Golden Yellow",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 268,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Snapdragon Tall Rocket Pink",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 269,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Snapdragon Tall Rocket Red",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 270,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Snapdragon Tall Rocket Rose Shades",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 271,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Snapdragon Tall Rocket White",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  },
+  {
+   "item_no": 272,
+   "family": "6 Pack Bedding Annuals",
+   "name": "Zinnia Tall Crestar Mix",
+   "size": "6 Pack",
+   "price": 5.45,
+   "page": 73
+  }
+ ]
+}
