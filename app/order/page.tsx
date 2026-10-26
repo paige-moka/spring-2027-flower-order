@@ -4,6 +4,7 @@ import { PolicyNotice } from '@/components/PolicyNotice';
 import { BUSINESS, CONFIRM_CHECKBOX_TEXT, POLICY, TOTAL_DISCLAIMER } from '@/lib/config';
 import { PRODUCTS } from '@/lib/products';
 import { loadOrderingState } from '@/lib/state';
+import gallery from '@/data/gallery.json';
 import Link from 'next/link';
 
 export const dynamic = 'force-dynamic';
@@ -11,6 +12,7 @@ export const metadata = { title: 'Place an Order' };
 
 export default async function OrderPage() {
   const { state, deadlineText } = await loadOrderingState();
+
   if (!state.open) {
     return (
       <div className="wrap narrow">
@@ -20,7 +22,15 @@ export default async function OrderPage() {
       </div>
     );
   }
-  const items: CatalogueItem[] = PRODUCTS.map((p) => ({ itemNo: p.itemNo, family: p.family, name: p.name, size: p.size, priceCents: p.priceCents }));
+
+  const items: CatalogueItem[] = PRODUCTS.map((p) => ({
+    itemNo: p.itemNo,
+    family: p.family,
+    name: p.name,
+    size: p.size,
+    priceCents: p.priceCents,
+  }));
+
   return (
     <div className="wrap">
       <h1>Place an Order</h1>
@@ -31,6 +41,7 @@ export default async function OrderPage() {
       <PolicyNotice deadlineText={deadlineText} />
       <OrderForm
         items={items}
+        gallery={gallery}
         deadlineText={deadlineText}
         disclaimer={TOTAL_DISCLAIMER}
         confirmText={CONFIRM_CHECKBOX_TEXT}
