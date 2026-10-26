@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { calcTotals, lineTotal, money } from '@/lib/money';
 import { LIMITS, STATUS_LABEL } from '@/lib/config';
 import { OrderLines, type ViewLine } from './OrderLines';
+import { PlantGallery, type GalleryCard, type GalleryFamily } from './PlantGallery';
 
 export type CatalogueItem = { itemNo: number; family: string; name: string; size: string; priceCents: number };
 type Policy = { pickup: string; noPickup: string; invoice: string; payment: string; pickupAddress: string; noPaymentHere: string };
@@ -35,8 +36,10 @@ export function OrderForm({
   disclaimer,
   confirmText,
   policy,
+  gallery,
 }: {
   items: CatalogueItem[];
+  gallery: { families: GalleryFamily[]; cards: GalleryCard[] };
   deadlineText: string;
   disclaimer: string;
   confirmText: string;
@@ -45,6 +48,8 @@ export function OrderForm({
   const [qty, setQty] = useState<Record<number, string>>({});
   const [search, setSearch] = useState('');
   const [onlyChosen, setOnlyChosen] = useState(false);
+  const [view, setView] = useState<'gallery' | 'list'>('gallery');
+  const [familyFilter, setFamilyFilter] = useState('');
   const [step, setStep] = useState<'choose' | 'details' | 'done'>('choose');
   const [customer, setCustomer] = useState({ name: '', email: '', phone: '', notes: '', specialRequests: '' });
   const [website, setWebsite] = useState(''); // hidden anti spam field
@@ -70,12 +75,17 @@ export function OrderForm({
   const filtered = useMemo(() => {
     const words = norm(search).replace('#', ' ').split(/\s+/).filter(Boolean);
     return items.filter((it) => {
+      if (familyFilter && it.family !== familyFilter) return false;
       if (onlyChosen && !((parseQty(qty[it.itemNo]) ?? 1) > 0)) return false;
       if (!words.length) return true;
       const hay = norm(`${it.itemNo} #${it.itemNo} ${it.family} ${it.name} ${it.size}`);
       return words.every((w) => (/^\d+$/.test(w) ? hay.split(/[\s#]+/).includes(w) || hay.includes(w) : hay.includes(w)));
     });
-  }, [items, search, onlyChosen, qty]);
+  }, [items, search, onlyChosen, qty, familyFilter]);
+
+  const itemsByNo = useMemo(() => new Map(items.map((it) => [it.itemNo, it])), [items]);
+  const visible = useMemo(() => new Set(filtered.map((it) => it.itemNo)), [filtered]);
+  const familyNames = useMemo(() => [...new Set(items.map((it) => it.family))], [items]);
 
   const groups = useMemo(() => {
     const m = new Map<string, CatalogueItem[]>();
@@ -317,6 +327,10 @@ export function OrderForm({
       <div className="order-layout">
         <div>
           <div className="search-bar">
+            <div className="view-toggle" role="group" aria-label="How to show the plants">
+              <button type="button" aria-pressed={view === 'gallery'} onClick={() => setView('gallery')}>▦ Photo gallery</button>
+              <button type="button" aria-pressed={view === 'list'} onClick={() => setView('list')}>☰ Quick list</button>
+            </div>
             <label htmlFor="search" className="sr-only">Search plants</label>
             <input
               id="search"
@@ -325,6 +339,11 @@ export function OrderForm({
               value={search}
               onChange={(e) => setSearch(e.target.value)}
             />
+            <label htmlFor="family" className="sr-only">Plant family</label>
+            <select id="family" value={familyFilter} onChange={(e) => setFamilyFilter(e.target.value)} className="family-select">
+              <option value="">All plant families</option>
+              {familyNames.map((f) => <option key={f} value={f}>{f}</option>)}
+            </select>
             <label style={{ display: 'flex', gap: 8, alignItems: 'center', margin: 0, fontWeight: 600 }}>
               <input type="checkbox" checked={onlyChosen} onChange={(e) => setOnlyChosen(e.target.checked)} style={{ width: 22, height: 22 }} />
               Show only my plants
@@ -332,9 +351,18 @@ export function OrderForm({
           </div>
           <p className="muted small" aria-live="polite">
             Showing {filtered.length} of {items.length} items
+            {(search || familyFilter || onlyChosen) && (
+              <>
+                {' · '}
+                <button type="button" className="linkish" onClick={() => { setSearch(''); setFamilyFilter(''); setOnlyChosen(false); }}>Show everything</button>
+              </>
+            )}
           </p>
-          {groups.length === 0 && <div className="card">No plants match your search.</div>}
-          {groups.map(([family, list]) => (
+          {view === 'gallery' && (
+            <PlantGallery families={gallery.families} cards={gallery.cards} itemsByNo={itemsByNo} visible={visible} qty={qty} parseQty={parseQty} setOne={setOne} bump={bump} />
+          )}
+          {view === 'list' && groups.length === 0 && <div className="card">No plants match your search.</div>}
+          {view === 'list' && groups.map(([family, list]) => (
             <section className="family" key={family}>
               <h3>{family}</h3>
               <table className="ptable">
